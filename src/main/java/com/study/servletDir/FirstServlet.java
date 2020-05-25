@@ -1,4 +1,4 @@
-package com.study.pc01;
+package com.study.servletDir;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
